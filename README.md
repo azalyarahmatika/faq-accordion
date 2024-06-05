@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/azalyarahmatika/frontend-mentor-faq-accordion)
+- Live Site URL: [Github Pages](https://azalyarahmatika.github.io/frontend-mentor-faq-accordion/)
 
 ## My process
 

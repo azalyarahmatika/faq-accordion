@@ -48,10 +48,11 @@ main {
 
 .faq_wrapper {
   position: relative;
-  width: 50%;
-  margin-top: -5%;
+  max-width: 50%;
+  /* max-width: 320px; */
+  margin-top: -30vh;
   left: 50%;
-  transform: translate(-50%, 0%);
+  transform: translateX(-50%);
   background: hsl(0, 0%, 100%);
   padding: 1.8rem;
   padding-bottom: 1rem;
@@ -141,8 +142,15 @@ main {
   color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .faq_wrapper {
-    width: 80%;
+    /* width: 80%; */
+    max-width: 95%;
+    margin-top: -30vh;
+  }
+
+  
+  .faq_header {
+    gap: 2rem;
   }
 }
