@@ -53,6 +53,7 @@ main {
   background: hsl(0, 0%, 100%);
   padding: 1.8rem;
   border-radius: 12px;
+  margin-bottom: 6rem;
 }
 
 .faq_header {
